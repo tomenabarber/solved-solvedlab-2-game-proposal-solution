@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedlab-2-game-proposal-solution
+<br>
+Brick Breaker game, for Game assignment. It consists of one paddle, one ball and bricks. In this game, the player moves a paddle horizontally on the screen and bounces a ball. The objective is to destroy the bricks on top of the window unless and until the ball missed by the paddle. We can use the timer to change the directions of the ball, except angular directions.
